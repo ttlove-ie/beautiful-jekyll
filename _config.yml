@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: My website
+title: TT Love
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: It's hard to win without sinning and it's hard to find somebody to love…
 
 # --- Navigation bar options --- #
 
@@ -27,7 +27,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
+    - GitHub Pages: "https://github.com/ttlove-ie/ttlove-ie.github.io/"
   Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
