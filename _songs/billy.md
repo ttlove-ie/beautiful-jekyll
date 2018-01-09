@@ -15,3 +15,9 @@ image: /img/hello_world.jpeg
 ---
 
 {% include youtubePlayer.html id=page.youtubeId %}
+
+{% for item in site.songs %}
+  <h2>{{ item.title }}</h2>
+  <p>{{ item.subtitle }}</p>
+  <p><a href="{{ item.url }}">{{ item.title }}</a></p>
+{% endfor %}
