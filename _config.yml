@@ -24,7 +24,7 @@ description: It's hard to win without sinning and it's hard to find somebody to 
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Things: "projects"
+  Songs: "songs"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
