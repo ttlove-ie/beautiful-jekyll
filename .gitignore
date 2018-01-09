@@ -12,3 +12,4 @@ img/jonathan-jude-guitar-wall-site-bigimg copy.jpg
 img/jonathan-jude-lips-logo copy.jpg
 .jekyll-metadata
 Gemfile.lock
+*.lock
