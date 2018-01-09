@@ -23,6 +23,7 @@ description: It's hard to win without sinning and it's hard to find somebody to 
 
 # List of links in the navigation bar
 navbar-links:
+  Gigs: "gigs"
   Songs: "songs"
   About Me: "aboutme"
   Resources:
@@ -172,6 +173,9 @@ collections:
   songs:
     output: true
     permalink: /songs/:path/
+  gigs:
+    output: true
+    permalink: /gigs/:path/
 
 # prose.io config
 prose:
