@@ -22,7 +22,7 @@ bigimg: /img/jonathan-jude-bike-logo-copy.jpg
 {% endfor %}
 
 <div class="songs-list">
-  {% for song in paginator.songs %}
+  {% for song in site.songs %}
   <article class="post-preview">
     <a href="{{ song.url | prepend: site.baseurl }}">
 	  <h2 class="song-title">{{ song.title }}</h2>
