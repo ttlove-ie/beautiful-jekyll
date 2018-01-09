@@ -21,7 +21,7 @@ bigimg: /img/jonathan-jude-bike-logo-copy.jpg
         <span>
             <h1>{{ project.title }}</h1>
             <br/>
-            <p>{{ project.description }}</p>
+            <p>{{ project.subtitle }}</p>
         </span>
         </a>
     </div>
@@ -39,7 +39,7 @@ bigimg: /img/jonathan-jude-bike-logo-copy.jpg
         <span>
             <h1>{{ project.title }}</h1>
             <br/>
-            <p>{{ project.description }}</p>
+            <p>{{ project.subtitle }}</p>
         </span>
         </a>
     </div>
