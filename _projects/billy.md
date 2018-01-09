@@ -8,4 +8,4 @@ subtitle: It's hard to win without sinning and it's hard to find somebody to <su
 youtubeId: yeFN3pOcuzc
 ---
 
-A simple inline announcement.
+{% include youtubePlayer.html id=page.youtubeId %}
