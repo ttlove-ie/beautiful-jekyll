@@ -5,13 +5,14 @@ subtitle: Why you'd want to go on a date with me
 bigimg: /img/jonathan-jude-bike-logo-copy.jpg
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+### Who are <sup>TT</sup>Love?
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Having spent the past 5 years dragging his heels high on the Montreal music scene, Jonathan Jude has returned to Dublin's docklands with a head full of riffs and a heart full of love… <sup>TT</sup>Love. Jude begins this new musical chapter with style and conviction. Keen to have a solid foundation on which to realize his vision.
 
-What else do you need?
+> ### Jude begins this new musical chapter with style and conviction.
 
-### my history
+Since conception their infectious punchy sound has drawn on influences from the folk, rock and psychedelic realms. However <sup>TT</sup>Love are now carving their own niche in Dublin's eclectic underground scene. 2011 is set to be an exciting year for <sup>TT</sup>Love with a number of high profile gigs, and the release of their debut album, "Off the Rails".
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+At a <sup>TT</sup>Love gig, expect something raunchy, expect something dirty, expect folky, but above all…
+
+> # <center>…expect something rocking!</center>

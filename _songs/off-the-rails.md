@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Dolly
+title: Off The Rails
 date: 2015-11-22 15:59:00-0401
 inline: true
 bigimg: /img/path.jpg
-subtitle: It's you I fly to Dolly when I look across the sky…
-soundcloudId: 21349814
+subtitle: Bill can you hear me now, can you help me…
+youtubeId: yeFN3pOcuzc
+soundcloudId: 4669677
 tags:
   - Tom Wilde
-
-image: /img/hello_world.jpeg
+image: /img/off-the-rails.jpg
 ---
 
 {% include soundcloudPlayer.html id=page.soundcloudId %}

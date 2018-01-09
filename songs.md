@@ -3,7 +3,7 @@ layout: page
 title: Songs
 subtitle: It's hard to win without sinning and it's hard to find somebody to <sup>TT</sup>love…
 permalink: /songs/
-description: A growing collection of your cool projects.
+description: A growing collection of your cool songs.
 bigimg: /img/jonathan-jude-bike-logo-copy.jpg
 ---
 <article>
