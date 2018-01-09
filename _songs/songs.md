@@ -2,7 +2,7 @@
 layout: page
 title: Songs
 subtitle: It's hard to win without sinning and it's hard to find somebody to <sup>TT</sup>love…
-permalink: /projects/
+permalink: /songs/
 description: A growing collection of your cool projects.
 bigimg: /img/jonathan-jude-bike-logo-copy.jpg
 ---
