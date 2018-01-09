@@ -6,6 +6,10 @@ inline: true
 bigimg: /img/hello_world.jpeg
 subtitle: It's hard to win without sinning and it's hard to find somebody to <sup>TT</sup>love…
 youtubeId: yeFN3pOcuzc
+tags:
+  - Tom Wilde
+
+image: /img/hello_world.jpeg
 ---
 
 {% include youtubePlayer.html id=page.youtubeId %}
