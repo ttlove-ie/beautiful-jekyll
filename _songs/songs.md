@@ -1,6 +1,6 @@
 ---
 layout: page
-title: S
+title: Songs
 subtitle: It's hard to win without sinning and it's hard to find somebody to <sup>TT</sup>love…
 permalink: /projects/
 description: A growing collection of your cool projects.
