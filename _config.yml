@@ -170,13 +170,13 @@ exclude:
 # Collections
 # -----------------------------------------------------------------------------
 collections:
+  gigs:
+    output: true
+    permalink: /gigs/:path/
   songs:
     output: true
     permalink: /songs/:path/
 
-  gigs:
-    output: true
-    permalink: /gigs/:path/
 
 # prose.io config
 prose:
