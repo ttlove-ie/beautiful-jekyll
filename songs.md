@@ -7,20 +7,20 @@ description: A growing collection of your cool songs.
 bigimg: /img/jonathan-jude-bike-logo-copy.jpg
 ---
 <article>
-  <div class="songs-list">
+  <div class="posts-list">
     {% for song in site.songs %}
     <article class="post-preview">
       <a href="{{ song.url | prepend: site.baseurl }}">
   	  <h2 class="post-title">{{ song.title }}</h2>
 
   	  {% if song.subtitle %}
-  	  <h3 class="song-subtitle">
+  	  <h3 class="post-subtitle">
   	    {{ song.subtitle }}
   	  </h3>
   	  {% endif %}
       </a>
 
-      <p class="song-meta">
+      <p class="post-meta">
         Posted on {{ song.date | date: "%B %-d, %Y" }}
       </p>
 

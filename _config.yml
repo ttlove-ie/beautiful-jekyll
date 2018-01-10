@@ -173,6 +173,7 @@ collections:
   songs:
     output: true
     permalink: /songs/:path/
+
   gigs:
     output: true
     permalink: /gigs/:path/

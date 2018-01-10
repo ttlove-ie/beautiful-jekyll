@@ -1,6 +1,6 @@
 ---
 layout: page
-title: gigs
+title: Gigs
 subtitle: Born ready to rock <sup>TT</sup>love… Are you ready?
 permalink: /gigs/
 description: A growing collection of your cool gigs.
@@ -14,13 +14,13 @@ bigimg: /img/jonathan-jude-bike-logo-copy.jpg
   	  <h2 class="post-title">{{ gig.title }}</h2>
 
   	  {% if gig.subtitle %}
-  	  <h3 class="song-subtitle">
+  	  <h3 class="post-subtitle">
   	    {{ gig.subtitle }}
   	  </h3>
   	  {% endif %}
       </a>
 
-      <p class="song-meta">
+      <p class="post-meta">
         Posted on {{ gig.date | date: "%B %-d, %Y" }}
       </p>
 
