@@ -23,8 +23,8 @@ description: It's hard to win without sinning and it's hard to find somebody to 
 
 # List of links in the navigation bar
 navbar-links:
-  Gigs: "gigs"
-  Music: "songs"
+#  Gigs: "gigs"
+#  Music: "songs"
   About Me: "aboutme"
   # Resources:
   #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
