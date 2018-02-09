@@ -9,6 +9,7 @@ bigimg: /img/jonathan-jude-guitar-wall-site-bigimg.jpg
 <div class="posts-list">
   {% for post in paginator.posts %}
   <article class="post-preview">
+      {% include youtubePlayer.html id=post.youtubeId %}    
     <a href="{{ post.url | prepend: site.baseurl }}">
 	  <h2 class="post-title">{{ post.title }}</h2>
 
