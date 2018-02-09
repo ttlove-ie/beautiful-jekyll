@@ -19,5 +19,7 @@ bigimg:
 
 
 <a href="https://www.facebook.com/savemoorestreetdublin/">Save Moore Street</a>
-(<a href="//commons.wikimedia.org/wiki/User:Tupungato" title="User:Tupungato">Tupungato</a>) <a rel="nofollow" class="external text" href="http://galeria.wyprawa.info">Photos by Marek Ślusarczyk </a>
+
+
+Photo Credit (<a href="//commons.wikimedia.org/wiki/User:Tupungato" title="User:Tupungato">Tupungato</a>) <a rel="nofollow" class="external text" href="http://galeria.wyprawa.info">Photos by Marek Ślusarczyk </a>
 
