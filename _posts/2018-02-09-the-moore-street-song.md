@@ -7,7 +7,7 @@ tags:
   - Moore Street
 
 subtitle: >-
-  Lets save Moore Street.
+  Let's save Moore Street.
 
 date: 2018/02/09
 bigimg:
@@ -15,5 +15,9 @@ bigimg:
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
+<a href="https://www.facebook.com/save.moore.st.from.demolition/">Save Moore Street from Demolition</a>
+
+
+<a href="https://www.facebook.com/savemoorestreetdublin/">Save Moore Street</a>
 (<a href="//commons.wikimedia.org/wiki/User:Tupungato" title="User:Tupungato">Tupungato</a>) <a rel="nofollow" class="external text" href="http://galeria.wyprawa.info">Photos by Marek Ślusarczyk </a>
 
